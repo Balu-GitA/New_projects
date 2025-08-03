@@ -1,2 +1,2 @@
 # New_project
-this are my new projects..
+This are my new projects..
